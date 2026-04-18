@@ -47,7 +47,7 @@ Nametag Endpoint Health Check
 
 ```bash
 # Clone the repo
-git clone https://github.com/jessraffelson-del/api-support-scripts.git
+git clone https://github.com/jessraffelson-del/support-scripts.git
 cd support-scripts
 
 # Create and activate virtual environment
