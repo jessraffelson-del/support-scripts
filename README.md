@@ -1,6 +1,6 @@
 # API Support Scripts
 
-A collection of lightweight Python scripts for API troubleshooting, endpoint validation, and integration debugging. Built for support engineering contexts where speed, readability, and clear output matter more than elegance.
+A collection of lightweight scripts for API troubleshooting, endpoint validation, and integration debugging. Built for support engineering contexts where speed, readability, and clear output matter more than elegance.
 
 ---
 
